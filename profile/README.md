@@ -3,7 +3,12 @@ This is the official laboratory where all the magic happens. You are invited to 
 
 ![planning-for-agi-and-beyond](https://github.com/hacktivists302/.github/assets/123860665/0b8bfd5b-2321-41dc-bad5-cb2fdb6d69f1)
 
+## About
+Hacktivists_302 is all about experiments and development. We at Hacktivists_302 develop high-end software solutions for complex projects using cutting edge technology. 
+We are a research oriented competetive group we like to showcase and build in demand solutions at various hackathons worldwide and beyond.
 
+## What you get here
+This place is all about showcasing our best experiments and our latest projects. Take a tour of our laboratory which we fondly call "The Garrage". 
 <!--
 
 **Here are some ideas to get you started:**
