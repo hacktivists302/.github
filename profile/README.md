@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="150" src="(https://github.com/hacktivists302/.github/assets/123860665/4b21bf54-07a5-4b54-a5b0-2261dab245fe)"  />
-</div>
 
-<!--(https://github.com/hacktivists302/.github/assets/123860665/4b21bf54-07a5-4b54-a5b0-2261dab245fe) -->
 
-## The Hacktivists_302 garrage 
+(https://github.com/hacktivists302/.github/assets/123860665/4b21bf54-07a5-4b54-a5b0-2261dab245fe)
+
+# The Hacktivists_302 Garrage 
 
 This is the official laboratory where all the magic happens. You are invited to take a look.
 
