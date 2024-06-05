@@ -1,6 +1,4 @@
-
-
-!(https://github.com/hacktivists302/.github/assets/123860665/4b21bf54-07a5-4b54-a5b0-2261dab245fe)
+![planning-for-agi-and-beyond](https://github.com/hacktivists302/.github/assets/123860665/0b8bfd5b-2321-41dc-bad5-cb2fdb6d69f1)
 
 # The Hacktivists_302 Garrage 
 
