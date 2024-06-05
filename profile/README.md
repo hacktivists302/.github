@@ -13,10 +13,7 @@ This place is all about showcasing our best experiments and our latest projects.
 ## Us
 Contributers here:
 
-- Akshat Jaiswal
-- Deepjyoti Das
-- Rahul Das
-- Swapnamoy Midya
+**Akshat Jaiswal - Deepjyoti Das - Rahul Das - Swapnamoy Midya**
 
 <!--
 
