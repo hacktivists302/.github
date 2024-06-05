@@ -9,6 +9,15 @@ We are a research oriented competetive group we like to showcase and build in de
 
 ## What you get here
 This place is all about showcasing our best experiments and our latest projects. Take a tour of our laboratory which we fondly call "The Garrage". 
+
+## Us
+Contributers here:
+
+- Akshat Jaiswal
+- Deepjyoti Das
+- Rahul Das
+- Swapnamoy Midya
+
 <!--
 
 **Here are some ideas to get you started:**
