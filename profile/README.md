@@ -1,8 +1,7 @@
-![planning-for-agi-and-beyond](https://github.com/hacktivists302/.github/assets/123860665/0b8bfd5b-2321-41dc-bad5-cb2fdb6d69f1)
-
 # The Hacktivists_302 Garrage 
-
 This is the official laboratory where all the magic happens. You are invited to take a look.
+
+![planning-for-agi-and-beyond](https://github.com/hacktivists302/.github/assets/123860665/0b8bfd5b-2321-41dc-bad5-cb2fdb6d69f1)
 
 
 <!--
